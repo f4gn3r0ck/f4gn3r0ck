@@ -46,11 +46,11 @@ We strive to deliver innovative, reliable, and efficient digital products.
 
 ### Animated Logo
 
-![Sonix.Tech Animated Logo](https://github.com/f4gn3r0ck/Sonix.Tech/blob/main/SONIX-LOGO-ANIMADO.gif)
+![Sonix.Tech Animated Logo](https://github.com/f4gn3r0ck/Sonix.Tech/blob/main/logo%20video.gif)
 
 ### TV Screen Ad
 
-![Sonix.Tech TV Screen Ad](https://github.com/f4gn3r0ck/Sonix.Tech/blob/main/Chamada-Sonix-TV.gif)
+![Sonix.Tech TV Screen Ad](https://github.com/f4gn3r0ck/Sonix.Tech/blob/main/tv%20screen.gif)
 
 ---
 
