@@ -5,25 +5,44 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# Sonix.Tech Assets
+<h1 align="center">
+  <br>
+  <a href="https://github.com/f4gn3r0ck/Sonix.Tech"><img src="https://github.com/f4gn3r0ck/Sonix.Tech/raw/main/CAPA%20INSTATIKTOK%20SONIX-LOGO.png" alt="Sonix.Tech Logo" width="200"></a>
+  <br>
+  Sonix.Tech
+  <br>
+</h1>
 
-Contact: [f4gn3r@duck.com](mailto:f4gn3r@duck.com)  
-Phone: [+55 24 99999-8558](tel:+5524999998558)
+<h4 align="center">Your go-to tech solution</h4>
 
-## Logo
+<p align="center">
+  <a href="https://github.com/f4gn3r0ck/Sonix.Tech"><img src="https://img.shields.io/badge/Version-1.0-blue"></a>
+  <a href="https://gitter.im/f4gn3r0ck/Sonix.Tech"><img src="https://badges.gitter.im/f4gn3r0ck/Sonix.Tech.svg"></a>
+  <a href="mailto:f4gn3r@duck.com">
+      <img src="https://img.shields.io/badge/Contact-f4gn3r%40duck.com-orange">
+  </a>
+</p>
 
-![Sonix.Tech Logo](https://github.com/f4gn3r0ck/Sonix.Tech/raw/main/CAPA%20INSTATIKTOK%20SONIX-LOGO.png)
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#features">Features</a> •
+  <a href="#media">Media</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+## About
+
+Sonix.Tech is a tech company focused on providing high-quality digital solutions.
+
+## Features
+
+- Robust and reliable digital products
+- Innovative technology
+- Customer-focused services
+
+## Media
 
 ### Animated Logo
 
-![Sonix.Tech Animated Logo](https://github.com/f4gn3r0ck/Sonix.Tech/raw/main/SONIX%20LOGO%20ANIMADO.mp4)
-
-## TV Screen
-
-You can view the TV screen animation here:
-
-[Sonix.Tech TV Screen](https://github.com/f4gn3r0ck/Sonix.Tech/raw/main/Chamada%20Sonix%20TV.mp4)
-
----
-
-To preview the assets, click on the images or links above, or download them directly from the links.
+<video src="https://github.com/f4gn3r0ck/Sonix.Tech/raw/main/SONIX%20LOGO%20ANIMADO.mp4" controls width="600" autoplay loop>
+  Your browser does not support the video
